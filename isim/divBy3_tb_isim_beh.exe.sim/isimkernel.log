@@ -1,0 +1,28 @@
+Command line:
+   divBy3_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3556
+
+Sat Jun 17 19:57:20 2023
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5154.08 Meg
+
+ Total Signals          : 21
+ Total Nets             : 10
+ Total Signal Drivers   : 10
+ Total Blocks           : 5
+ Total Primitive Blocks : 3
+ Total Processes        : 10
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 372
+
+ Total Simulation Time: 0.265625 sec
+
+ Current Memory Usage: 4682.22 Meg
+
+Sat Jun 17 20:00:25 2023
+

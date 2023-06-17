@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "secureip" -o "D:/fpga/sim8284/divBy2_tb_isim_beh.exe" -prj "D:/fpga/sim8284/divBy2_tb_beh.prj" "work.divBy2_tb" 
+-intstyle "ise" -incremental -lib "secureip" -o "D:/fpga/sim8284/divBy3_tb_isim_beh.exe" -prj "D:/fpga/sim8284/divBy3_tb_beh.prj" "work.divBy3_tb" 

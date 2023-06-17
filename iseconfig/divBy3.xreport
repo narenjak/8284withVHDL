@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2023-06-17T11:34:33</DateModified>
+  <DateModified>2023-06-17T19:56:39</DateModified>
   <ModuleName>divBy3</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>D:/fpga/sim8284/iseconfig/divBy2.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/fpga/sim8284\</ImplementationReportsDirectory>
-  <DateInitialized>2023-06-17T11:34:33</DateInitialized>
+  <SavedFilePath>D:/fpga/sim8284/iseconfig/divBy3.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>D:/fpga/sim8284</ImplementationReportsDirectory>
+  <DateInitialized>2023-06-17T19:56:37</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
  <body>

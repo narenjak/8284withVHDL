@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy3.xst" -ofn "D:/fpga/sim8284/divBy3.syr" 

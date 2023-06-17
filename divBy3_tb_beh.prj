@@ -1,0 +1,3 @@
+vhdl work "d_flipflop.vhd"
+vhdl work "divBy3.vhd"
+vhdl work "divBy3_tb.vhd"
