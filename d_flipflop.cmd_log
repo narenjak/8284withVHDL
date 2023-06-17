@@ -1,0 +1,3 @@
+vhdtdtfi -prj sim8284 -o D:/fpga/sim8284/d_flipflop.vhi -module d_flipflop -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work d_flipflop.vhd 
+vhdtdtfi -prj sim8284 -o D:/fpga/sim8284/d_flipflop.vhi -module d_flipflop -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work d_flipflop.vhd 
+vhdtdtfi -prj sim8284 -o D:/fpga/sim8284/d_flipflop.vhi -module d_flipflop -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work d_flipflop.vhd 

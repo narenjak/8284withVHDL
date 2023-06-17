@@ -1,0 +1,26 @@
+vhdtdtfi -prj sim8284 -o D:/fpga/sim8284/divBy2.vhi -module divBy2 -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work divBy2.vhd 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 divBy2.ngc divBy2.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o divBy2_map.ncd divBy2.ngd divBy2.pcf 
+par -w -intstyle ise -ol high -mt off divBy2_map.ncd divBy2.ncd divBy2.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml divBy2.twx divBy2.ncd -o divBy2.twr divBy2.pcf 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+vhdtdtfi -prj sim8284 -o D:/fpga/sim8284/divBy2.vhi -module divBy2 -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work d_flipflop.vhd -lib work divBy2.vhd 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
+xst -intstyle ise -ifn "D:/fpga/sim8284/divBy2.xst" -ofn "D:/fpga/sim8284/divBy2.syr" 
